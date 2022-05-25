@@ -96,6 +96,18 @@ https://en.wikipedia.org/wiki/Creative_coding
 
 
 
+## Dan Van Note Portfolio | Videographer | Gatsby
+
+![Screen Shot 2022-02-26 at 3 55 49 PM](https://user-images.githubusercontent.com/90220317/170323071-e1647f90-dca1-4da3-bbb0-aa9b6bdb38bd.png)
+
+I created this image centric web/mobile porfolio for the videographer Daniel Van Note. He wanted a very elegant and minimalistic protfolio website with a will feature the rich imnagery of his commercial and artistic work. I developed a site modifying the Gatsby/React.js 'Starter Portfolio: Jodie' code and content managed in Markdown.
+
+[LIVE APP](https://github.com/marlonbarrios/danielprotfolio 'LIVE APP')
+
+[CODE REPOSITORY](https://github.com/marlonbarrios/music-player-react 'CODE REPOSITORY')
+
+
+
 
 
 
