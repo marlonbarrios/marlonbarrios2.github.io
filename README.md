@@ -74,7 +74,8 @@ This is a collection of projects as practice on the versatility and power of Van
 
 [LIVE and CODE REPOSITORY](https://github.com/marlonbarrios/jsvanilla-projects#readme 'CODE REPOSITORY')
 
-# Creative Coding and Generative Art
+##Creative Coding and Generative Art
+
 ![Screen Shot 2022-05-24 at 9 05 50 PM](https://user-images.githubusercontent.com/90220317/170304140-15ee0f3b-e0d8-44fe-9d0a-8a186422cac0.png)
 
 This is a collection with fun projects using p5.js exploring simulation od complex systems and emergence properties.
@@ -94,7 +95,7 @@ https://en.wikipedia.org/wiki/Creative_coding
 
 [LIVE](https://github.com/marlonbarrios/05-creativecoding#creative-coding-and-generative-art 'CODE REPOSITORY')
 
-
+## SPA Site
 
 ## Dan Van Note Portfolio | Videographer | Gatsby
 
@@ -107,6 +108,18 @@ I created this image centric web/mobile porfolio for the videographer Daniel Van
 [LIVE APP](https://github.com/marlonbarrios/danielprotfolio 'LIVE APP')
 
 [CODE REPOSITORY](https://github.com/marlonbarrios/music-player-react 'CODE REPOSITORY')
+
+## Web3 Porjects
+
+## MotionDAO
+
+![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
+
+MotionDAO is an international collective of artists/researchers, creating contexts of adoption and creative experimentation using Web3 technologies; investigating its impacts on ownership, governance and value creation within local and global communities of practice; it operates supported and supporting the social networks dance-tech.net and movimiento.org. MotionDAO is part of the Near Protocol ecosystem.
+
+
+
+
 
 
 
