@@ -6,7 +6,9 @@ I have been fascinated by complex and networked systems, the web and online-comm
 ## Full Stack Development Projects
 
 ## REACT Music Player
-![musicplayer](https://user-images.githubusercontent.com/90220317/170290851-c264583b-ddc3-4e4c-8225-1f9bc2634b9d.png)
+
+<img width="1516" alt="Screen Shot 2022-05-25 at 10 53 08 AM" src="https://user-images.githubusercontent.com/90220317/170292444-0584f207-c259-4524-a7c2-abfff5f197d3.png">
+
 
 
 I developed this React.js web app for the group to share music adding YouTube muic video and music from SounCloud. The video are added to a list fetching the thunbnail, name and artist data. The user may play them loading the songs in the player and also may create a queue. The personal queue us handled in the browser and the main list and data is managed by Apollo/GraphQR in Hasura/Heroku. You may add some tracks and share the noise!
