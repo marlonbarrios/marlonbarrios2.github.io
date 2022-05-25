@@ -123,7 +123,7 @@ I have developed and curated social networks since 2008. The dance-tech,ne (Engl
 
 [dance-tech.net](https://www.dance-tech.net/ 'dance-tech.net')
 
-## Teaching and Research
+# Teaching and Research
 ## UnstableLandscape | Art + Tech + P2P + Blockchain
 
 ![Screen Shot 2022-02-25 at 8 18 34 PM](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
