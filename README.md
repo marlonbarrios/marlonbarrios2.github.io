@@ -2,7 +2,7 @@
 ## Marlon Barrios Solano
 ## software engineer, creative technologist, researcher and educator
 
-[My VC](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8773628/mbscv_3_28.pdf)
+[My CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8773628/mbscv_3_28.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/ 'Linkedin')
 
@@ -11,8 +11,6 @@ I have been fascinated by complex and networked systems, the web and online-comm
 # Full Stack Development Projects
 
 ## REACT Music Player
-
-
 
 
 
