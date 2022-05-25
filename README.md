@@ -6,7 +6,8 @@ I have been fascinated by complex and networked systems, the web and online-comm
 ## Full Stack Development Projects
 
 ## REACT Music Player
-![Alt text](musicplayer.png "a title")
+![musicplayer](https://user-images.githubusercontent.com/90220317/170290851-c264583b-ddc3-4e4c-8225-1f9bc2634b9d.png)
+
 
 I developed this React.js web app for the group to share music adding YouTube muic video and music from SounCloud. The video are added to a list fetching the thunbnail, name and artist data. The user may play them loading the songs in the player and also may create a queue. The personal queue us handled in the browser and the main list and data is managed by Apollo/GraphQR in Hasura/Heroku. You may add some tracks and share the noise!
 
@@ -15,7 +16,9 @@ I developed this React.js web app for the group to share music adding YouTube mu
 [CODE REPOSITORY](https://github.com/marlonbarrios/music-player-react 'CODE REPOSITORY')
 
 ## CryptoMondrian
-![final_look-1](https://user-images.githubusercontent.com/90220317/170281496-7a6b3878-1925-4071-8fe7-20c2b76de25a.png)
+
+![final_look](https://user-images.githubusercontent.com/90220317/170290484-1831e0ad-2649-46c9-a2de-52f56a7bcdc8.png)
+
 
 
 CryptoMondrian is a desktop App that displays the top 10 cryptocurrencies names and prices in dollars using a CSS grid system inspired by the work of Piet Mondrian. The name and the price are placed in descendent order from the largest to the smaller blocks. The data is fetched using the CoinGecko API. User can click button and refresh data or wait until the data is refreshes every 60 seconds.
@@ -26,8 +29,9 @@ CryptoMondrian is a desktop App that displays the top 10 cryptocurrencies names 
 
 
 ## LiveThyCrypto
-<img width="1505" alt="Screen Shot 2022-05-25 at 10 37 58 AM" src="https://user-images.githubusercontent.com/90220317/170289738-2356fc71-a0ca-4697-be7b-0c78f8c43887.png">
 
+
+<img width="1505" alt="Screen Shot 2022-05-25 at 10 37 58 AM" src="https://user-images.githubusercontent.com/90220317/170290651-5090d5f2-3bcf-4389-b455-d68502a230db.png">
 
 
 The cryptocurrency ecosystem is vast, fast growing and can be daunting and disorienting. lovethycrypto is a MERN app that offers the users a stream of the main 250 cryptocurrencies sorted by Market Cap. After logged in, the user is able to select a set of currencies to a personal list with links to a currency page with more information and external links to global news and Youtube searches about the showcased currency. All data is updated dynamically; app was deployed using Google Firebase authentication and consumes a third party API.
