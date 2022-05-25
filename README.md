@@ -83,7 +83,7 @@ This is a collection of projects as practice on the versatility and power of Van
 
 [LIVE and CODE REPOSITORY](https://github.com/marlonbarrios/jsvanilla-projects#readme 'CODE REPOSITORY')
 
-## Creative Coding and Generative Art
+## CREATIVE CODING AND GNERATIVE ARTS
 
 ![Screen Shot 2022-05-24 at 9 05 50 PM](https://user-images.githubusercontent.com/90220317/170304140-15ee0f3b-e0d8-44fe-9d0a-8a186422cac0.png)
 
@@ -118,7 +118,7 @@ I created this image centric web/mobile porfolio for the videographer Daniel Van
 
 [CODE REPOSITORY](https://github.com/marlonbarrios/music-player-react 'CODE REPOSITORY')
 
-## Web3/Web2 Online Communities Projects
+# Web3/Web2 Online Communities Projects
 
 ## MotionDAO
 
@@ -146,6 +146,7 @@ As an interdisciplinary artist and researcher working in the intersection of dan
 
 Telegram
 https://t.me/mbarriossolano
+
 Discord:
 unstablelandscape#7984
 
