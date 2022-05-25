@@ -7,6 +7,7 @@ I have been fascinated by complex and networked systems, the web and online-comm
 
 ### Music Player
 ![Alt text](musicplayer.png "a title")
+
 I developed this React.js web app for the group to share music adding YouTube muic video and music from SounCloud. The video are added to a list fetching the thunbnail, name and artist data. The user may play them loading the songs in the player and also may create a queue. The personal queue us handled in the browser and the main list and data is managed by Apollo/GraphQR in Hasura/Heroku. You may add some tracks and share the noise!
 
 
