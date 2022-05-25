@@ -70,7 +70,7 @@ We were inspired by the Futures Thinking discipline, as an approach to creative 
 
 <img width="1408" alt="github" src="https://user-images.githubusercontent.com/90220317/170297745-6f318c44-81b1-4e42-8954-faad6ce730f9.png">
 
-This is a collection of projects as practice on the direct porwer of Vanilla or pure Java Script in combination with HTML5 and CSS3. The projects are linked to their LIVE apps and code REPOs. Enjoy
+This is a collection of projects as practice on the versatility and power of Vanilla or pure Java Script in combination with HTML5 and CSS3. The projects are linked to their LIVE apps and code REPOs. Enjoy
 
 [LIVE and CODE REPOSITORY](https://github.com/marlonbarrios/jsvanilla-projects#readme 'CODE REPOSITORY')
 
