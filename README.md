@@ -133,4 +133,4 @@ As a founder and leader of MotionDAO the founder, I facilitate contexts of adopt
 
 I have developed and curated social networks since 2008. The dance-tech,ne (English) and movimiento.org (in Spanish and Portuguese) have explored the potential of the new Internet technologies for knowledge production and distribution on body based artistic practices and it's intersections with other disciplines such as new media, architecture, philosophy, anthropology and more. All dance-tech projects attempt to situate embodiment as a fundamental condition and movement arts relevant practices of the contemporary with an interdisciplinary framework.
 
-[dance-tech.net](hhttps://www.dance-tech.net/ 'dance-tech.net')
+[dance-tech.net](https://www.dance-tech.net/ 'dance-tech.net')
