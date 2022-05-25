@@ -117,7 +117,7 @@ I created this image centric web/mobile porfolio for the videographer Daniel Van
 
 [CODE REPOSITORY](https://github.com/marlonbarrios/music-player-react 'CODE REPOSITORY')
 
-## Web3 Porjects
+## Web3/Web2 Online Communities Projects
 
 ## MotionDAO
 
@@ -134,3 +134,11 @@ As a founder and leader of MotionDAO the founder, I facilitate contexts of adopt
 I have developed and curated social networks since 2008. The dance-tech,ne (English) and movimiento.org (in Spanish and Portuguese) have explored the potential of the new Internet technologies for knowledge production and distribution on body based artistic practices and it's intersections with other disciplines such as new media, architecture, philosophy, anthropology and more. All dance-tech projects attempt to situate embodiment as a fundamental condition and movement arts relevant practices of the contemporary with an interdisciplinary framework.
 
 [dance-tech.net](https://www.dance-tech.net/ 'dance-tech.net')
+
+## Teaching and Research
+## UnstableLandscape | Art + Tech + P2P + Blockchain
+![Screen Shot 2022-02-25 at 8 18 34 PM](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
+As an interdisciplinary artist and researcher working in the intersection of dance, computation, networks, cognitive science and blockchain studies, I teach and consult for universities, arts centers, corporations, festivals and thinktanks. I use improvisational/performance games, interactive media, somatics, vipassana meditation and design thinking as part of my facilitation toolbox and pedagogy: UnstableLandscape.
+
+[unstablelandscape](https://www.dance-tech.net/profile/network_producer 'unstablelandscape')
+
