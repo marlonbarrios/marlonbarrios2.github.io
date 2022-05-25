@@ -133,10 +133,22 @@ As an interdisciplinary artist and researcher working in the intersection of dan
 [More Information](https://www.dance-tech.net/profile/network_producer 'more information')
 
 Telegram
+
 https://t.me/mbarriossolano
 
 Discord:
+
 unstablelandscape#7984
+
+Facebook:
+
+https://www.facebook.com/marlonbarriossolano/
+
+Twitter
+
+https://twitter.com/MarlonBarriosS2
+
+
 
 
 
