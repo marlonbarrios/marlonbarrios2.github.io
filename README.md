@@ -53,6 +53,19 @@ We were inspired by the Futures Thinking discipline, as an approach to creative 
 
 [CODE REPOSITORY](https://github.com/tylerrice121/Futures_Thinking 'CODE REPOSITORY')
 
+## Hai-QR
+
+
+<img width="1532" alt="Screen Shot 2022-05-25 at 11 07 47 AM" src="https://user-images.githubusercontent.com/90220317/170295705-c57fefc2-c080-40be-8105-9f97f7dd0177.png">
+
+
+We were inspired by the Futures Thinking discipline, as an approach to creative and exploratory process that uses divergent thinking, seeking many possible answers and acknowledging uncertainty. It's a different mind-set to analytical thinking which uses convergent thinking to seek the right answer and reduce uncertainty. In Futures Thinking, the user is prompted to complete the phrase: "In the future...".
+
+[LIVE APP](https://futuresthinking.herokuapp.com/ 'LIVE APP')
+
+[CODE REPOSITORY](https://github.com/marlonbarrios/project2-hai-QR/blob/main/README.md 'CODE REPOSITORY')
+
+
 
 
 
