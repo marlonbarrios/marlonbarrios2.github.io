@@ -82,7 +82,7 @@ This is a collection of projects as practice on the versatility and power of Van
 
 [LIVE and CODE REPOSITORY](https://github.com/marlonbarrios/jsvanilla-projects#readme 'CODE REPOSITORY')
 
-##Creative Coding and Generative Art
+## Creative Coding and Generative Art
 
 ![Screen Shot 2022-05-24 at 9 05 50 PM](https://user-images.githubusercontent.com/90220317/170304140-15ee0f3b-e0d8-44fe-9d0a-8a186422cac0.png)
 
@@ -103,9 +103,9 @@ https://en.wikipedia.org/wiki/Creative_coding
 
 [LIVE](https://github.com/marlonbarrios/05-creativecoding#creative-coding-and-generative-art 'CODE REPOSITORY')
 
-## SPA Site
+## Single Page Site | Gatsby
 
-## Dan Van Note Portfolio | Videographer | Gatsby
+## Dan Van Note Portfolio | Videographer 
 
 
 ![Screen Shot 2022-05-25 at 1 47 28 PM](https://user-images.githubusercontent.com/90220317/170329645-31a50d5f-072f-49b1-acc7-b2e09d5e6f85.png)
@@ -147,5 +147,6 @@ Telegram
 https://t.me/mbarriossolano
 Discord:
 unstablelandscape#7984
+
 
 
