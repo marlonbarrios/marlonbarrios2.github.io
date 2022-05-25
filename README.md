@@ -85,22 +85,11 @@ This is a collection of projects as practice on the versatility and power of Van
 
 ![Screen Shot 2022-05-24 at 9 05 50 PM](https://user-images.githubusercontent.com/90220317/170304140-15ee0f3b-e0d8-44fe-9d0a-8a186422cac0.png)
 
-This is a collection with fun projects using p5.js exploring simulation od complex systems and emergence properties.
-
-https://p5js.org/
-
-https://en.wikipedia.org/wiki/Complex_system
-
+This is a collection with fun projects using p5.js exploring simulation of complex systems and emergence properties aith autonomous agents and interactivity.
 Generative art refers to art that in whole or in part has been created with the use of an autonomous system. An autonomous system in this context is generally one that is non-human and can independently determine features of an artwork that would otherwise require decisions made directly by the artist. In some cases the human creator may claim that the generative system represents their own artistic idea, and in others that the system takes on the role of the creator.
-
-https://en.wikipedia.org/wiki/Generative_art
-
 Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. It is used to create live visuals and for VJing, as well as creating visual art and design, entertainment (e.g. video games), art installations, projections and projection mapping, sound art, advertising, product prototypes, and much more.
 
-https://en.wikipedia.org/wiki/Creative_coding
-
-
-[LIVE](https://github.com/marlonbarrios/05-creativecoding#creative-coding-and-generative-art 'CODE REPOSITORY')
+[PROLECT LIST ](https://github.com/marlonbarrios/05-creativecoding#creative-coding-and-generative-art 'CODE REPOSITORY')
 
 ## Single Page Site | Gatsby
 
