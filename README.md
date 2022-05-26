@@ -1,11 +1,11 @@
 ![Alt text](profilepic.png "a title")
 ## Marlon Barrios Solano
 ## software engineer, creative technologist, researcher and educator
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbarriossolano/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
+[![Twitter](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "a title")
-   ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "a title")
-   ![Facebook](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "a title")
-    ![Facebook](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "a title")
    
 ## Bio
 
@@ -15,8 +15,10 @@ I have been fascinated by complex and networked systems, the web and online-comm
 
 
 ## SKILLS
-
+![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "a title")
+![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=for-the-badge)
 ![Java Script](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "a title")
+![P5js](https://img.shields.io/badge/p5.js-ED225D?logo=p5.js&logoColor=FFFFFF&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "a title")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "a title")
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white "a title")
@@ -24,7 +26,9 @@ I have been fascinated by complex and networked systems, the web and online-comm
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "a title")
 ![Express,js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "a title")
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "a title")
+![Next JS ](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "a title")
+![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37&style=for-the-badge)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white "a title")
 ![Styles Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "a title")
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white	 "a title")
@@ -32,7 +36,8 @@ I have been fascinated by complex and networked systems, the web and online-comm
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "a title")
 ![Django]( https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white "a title")
 
-![image](https://user-images.githubusercontent.com/90220317/170391912-a2e299dd-c164-47a4-b74e-74eb407dd25e.png)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
+![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=apollo-graphql&style=for-the-badge)
 ![PostgresQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "a title")
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white	 "a title")
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white "a title")
@@ -41,11 +46,10 @@ I have been fascinated by complex and networked systems, the web and online-comm
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white "a title")
 
-![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "a title")
-![Github]( https://github-readme-stats.vercel.app/api/top-langs/?username=marlonbarrios&theme=blue-green "a title")
-
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=whitev "a title")
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
+
+
 # Full Stack Development Projects
 
 ## REACT Music Player
@@ -178,13 +182,7 @@ Discord:
 
 unstablelandscape#7984
 
-Facebook:
 
-https://www.facebook.com/marlonbarriossolano/
-
-Twitter
-
-https://twitter.com/MarlonBarriosS2
 
 
 
