@@ -82,7 +82,7 @@ CryptoMondrian is a desktop App that displays the top 10 cryptocurrencies names 
 [CODE REPOSITORY](https://github.com/marlonbarrios/Project1_app_with-API-cryptomondrian/blob/master/README.md 'CODE REPOSITORY')
 
 
-## LiveThyCrypto
+## LoveThyCrypto
 
 
 <img width="1505" alt="Screen Shot 2022-05-25 at 10 37 58 AM" src="https://user-images.githubusercontent.com/90220317/170290651-5090d5f2-3bcf-4389-b455-d68502a230db.png">
