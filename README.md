@@ -2,84 +2,50 @@
 ## Marlon Barrios Solano
 ## software engineer, creative technologist, researcher and educator
 
-[My CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8773628/mbscv_3_28.pdf)
+  ![LinkeIn]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "a title")
+   ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "a title")
+   ![Facebook](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "a title")
+    ![Facebook](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "a title")
+   
+## Bio
 
-[LinkedIn](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/ 'Linkedin')
- 
-    https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-    	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-      https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+I have been fascinated by complex and networked systems, the web and online-community development. For more than 20 years, as a dancer, digital artist and educator, I have always been interested in building systems with rules and software, creating community platforms and establishing collaborations. I have always been driven by curiosity and my capacity to see the whole and its parts. I have learned to move fast and efficiently from large scale problems, such as networks to the specificities of software implementation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. I am fascinated by the potential of the blockchain for financial inclusion and innovation. I am a graduate of the General Assembly Software Engineering Immersive Program (December 2021) and a Kernel Fellow Block5 2022. I love creative coding and I teach vipassana meditation and yoga.
+
+[My CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8773628/mbscv_3_28.pdf)
 
 
 ## SKILLS
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "a title")
+![Java Script](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "a title")
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "a title")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "a title")
-![Java Script](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "a title")
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "a title")
-
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white "a title")
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "a title")
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "a title")
 ![Express,js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "a title")
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white "a title")
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "a title")
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "a title")
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white "a title")
 ![Styles Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "a title")
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white	 "a title")
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "a title")
 ![Django]( https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white "a title")
+
+![image](https://user-images.githubusercontent.com/90220317/170391912-a2e299dd-c164-47a4-b74e-74eb407dd25e.png)
 ![PostgresQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "a title")
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white	 "a title")
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white "a title")
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white	 "a title")
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white "a title")
+
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white "a title")
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "a title")
-![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"a title")
-![Github( https://github-readme-stats.vercel.app/api/top-langs/?username={marlonbarrios}&theme=blue-green "a title")
+
+![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "a title")
+![Github]( https://github-readme-stats.vercel.app/api/top-langs/?username={marlonbarrios}&theme=blue-green "a title")
 
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=whitev "a title")
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
-
-
-
-
-
-
-
-
-
-
-
-  
-
- 
-
-
-
-
-
-
- 
-
-
-
- 
-  
-
-    
-    
-    
-
-      
-      
-      
-   
-     
-
-
-
-
-I have been fascinated by complex and networked systems, the web and online-community development. For more than 20 years, as a dancer, digital artist and educator, I have always been interested in building systems with rules and software, creating community platforms and establishing collaborations. I have always been driven by curiosity and my capacity to see the whole and its parts. I have learned to move fast and efficiently from large scale problems, such as networks to the specificities of software implementation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. I am fascinated by the potential of the blockchain for financial inclusion and innovation. I am a graduate of the General Assembly Software Engineering Immersive Program (December 2021) and a Kernel Fellow Block5 2022. I love creative coding and I teach vipassana meditation and yoga.
 # Full Stack Development Projects
 
 ## REACT Music Player
