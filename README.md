@@ -15,7 +15,7 @@ I have been fascinated by complex and networked systems, the web and online-comm
 
 [My CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8773628/mbscv_3_28.pdf)
 
-[This README.nd](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
+[This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
 
 
 
