@@ -1,6 +1,8 @@
 ![Alt text](profilepic.png "a title")
 ## Marlon Barrios Solano
 ## software engineer, creative technologist, researcher and educator
+### Web3 Education | REACT | React Native | GraphQL | Next.js | Solidity | WEB3+Arts+Tech | DAO+Social Networks |🌱 KB5 @Kernel0x Fellow | MotionDAO | Crypto-dana | Mindfulness and Yoga |
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbarriossolano/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
