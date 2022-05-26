@@ -123,7 +123,7 @@ This is a collection of projects as practice on the versatility and power of Van
 
 [LIVE and CODE REPOSITORY](https://github.com/marlonbarrios/jsvanilla-projects#readme 'CODE REPOSITORY')
 
-## CREATIVE CODING AND GNERATIVE ARTS
+## CREATIVE CODING AND GENERATIVE ART
 
 ![Screen Shot 2022-05-24 at 9 05 50 PM](https://user-images.githubusercontent.com/90220317/170304140-15ee0f3b-e0d8-44fe-9d0a-8a186422cac0.png)
 
