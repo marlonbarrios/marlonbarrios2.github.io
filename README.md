@@ -13,6 +13,10 @@ I have been fascinated by complex and networked systems, the web and online-comm
 
 [My CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8773628/mbscv_3_28.pdf)
 
+[This README.nd](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
+
+
+
 
 ## SKILLS
 ![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "a title")
