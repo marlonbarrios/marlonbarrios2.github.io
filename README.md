@@ -90,6 +90,7 @@ CryptoMondrian is a desktop App that displays the top 10 cryptocurrencies names 
 <img width="1505" alt="Screen Shot 2022-05-25 at 10 37 58 AM" src="https://user-images.githubusercontent.com/90220317/170290651-5090d5f2-3bcf-4389-b455-d68502a230db.png">
 
 
+
 The cryptocurrency ecosystem is vast, fast growing and can be daunting and disorienting. lovethycrypto is a MERN app that offers the users a stream of the main 250 cryptocurrencies sorted by Market Cap. After logged in, the user is able to select a set of currencies to a personal list with links to a currency page with more information and external links to global news and Youtube searches about the showcased currency. All data is updated dynamically; app was deployed using Google Firebase authentication and consumes a third party API.
 
 [LIVE APP](https://lovethycrypto.netlify.app/ 'LIVE APP')
@@ -119,6 +120,24 @@ We were inspired by the Futures Thinking discipline, as an approach to creative 
 [LIVE APP](https://futuresthinking.herokuapp.com/ 'LIVE APP')
 
 [CODE REPOSITORY](https://github.com/marlonbarrios/project2-hai-QR/blob/main/README.md 'CODE REPOSITORY')
+
+## Augmented Reality in JS: Prototype 
+
+![281466699_10161835426175968_5952513153711377028_n](https://user-images.githubusercontent.com/90220317/170399439-3edf15f1-ddad-45f7-b47e-ba9c17077bac.jpg)
+
+![280338768_10161025120531062_7362217253970765952_n](https://user-images.githubusercontent.com/90220317/170400057-aabf3e9b-ff62-4585-855f-452cef354cb8.jpg)
+
+Load this site in your mobile device:
+
+https://lnkd.in/e3ysdk6Q
+
+Follow prompts.
+Scan this image with your device.
+AugmentedReality #artest #webdevelopment
+
+[LIVE APP](https://lnkd.in/e3ysdk6Q/ 'LIVE APP')
+
+[CODE REPOSITORY](https://github.com/marlonbarrios/ar-nft-redpants 'CODE REPOSITORY')
 
 # Collections
 ## VANILLA JAVASCRIPT PROJECTS
